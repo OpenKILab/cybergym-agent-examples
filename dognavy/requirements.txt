@@ -1,0 +1,2 @@
+# Host-side CLI dependency. CyberGym is supplied by the platform environment.
+simple-parsing
